@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5a3303e03a0c94e678dd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01_Design_and_Edit",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_Design_and_Edit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_Design_and_Edit-Debug-8100c125e4e6deb0e5dd.json",
+					"name" : "01_Design_and_Edit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_Design_and_Edit_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_Design_and_Edit_autogen-Debug-50cb37b45210d0655249.json",
+					"name" : "01_Design_and_Edit_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01_Design_and_Edit_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_Design_and_Edit_autogen_timestamp_deps-Debug-b9cff7e2e6e1e863230f.json",
+					"name" : "01_Design_and_Edit_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/demon/Desktop/Qt_learning_source_code/build-01_Design_and_Edit-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+		"source" : "/home/demon/Desktop/Qt_learning_source_code/01_Design_and_Edit"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

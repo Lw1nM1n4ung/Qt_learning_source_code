@@ -1,0 +1,9 @@
+/home/demon/Desktop/Qt_learning_source_code/build-01_Design_and_Edit-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/01_Design_and_Edit.dir
+/home/demon/Desktop/Qt_learning_source_code/build-01_Design_and_Edit-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/demon/Desktop/Qt_learning_source_code/build-01_Design_and_Edit-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/demon/Desktop/Qt_learning_source_code/build-01_Design_and_Edit-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/demon/Desktop/Qt_learning_source_code/build-01_Design_and_Edit-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/demon/Desktop/Qt_learning_source_code/build-01_Design_and_Edit-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/demon/Desktop/Qt_learning_source_code/build-01_Design_and_Edit-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/demon/Desktop/Qt_learning_source_code/build-01_Design_and_Edit-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/01_Design_and_Edit_autogen_timestamp_deps.dir
+/home/demon/Desktop/Qt_learning_source_code/build-01_Design_and_Edit-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/01_Design_and_Edit_autogen.dir
